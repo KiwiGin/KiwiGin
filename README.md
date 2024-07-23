@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Dashboard for a Enterprises**
 
-- 🌱 I’m currently learning **React and Django**
+- 🌱 I’m currently learning **NextJS and React Native**
 
-- 🤝 I’m looking for help with **React**
-
-- 💬 Ask me about **Laravel**
+- 🤝 I’m looking for help with **C#**
 
 - 📫 How to reach me **florenciaflorencia1919@gmail.com**
 
